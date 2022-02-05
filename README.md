@@ -6,5 +6,5 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tarcisio.rodrigues@professor.colegioplanck.com.br)](mailto:valerioeducfin@gmail.com)
 
 - 🌱 I’m currently learning about **Data Science**, **Blockchain** and **Stock Market** 
-- 👯 I’m looking to collaborate on Data Science Projects
-- ⚡ Fun fact: always looking to be the best at what i'm doing
+- 👯 I’m looking to collaborate on **Data Science** Projects
+- ⚡ Fun fact: **Always looking to be the best at what i'm doing**
